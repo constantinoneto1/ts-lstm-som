@@ -2,7 +2,7 @@
 
 ## EN (PTBR logo abaixo)  
 ### What is this project about?
-This is an implementation of local learning for time series forecasting using self-organizing maps (SOMs) for determining time-window similarity and specialized long short-term memory recurrent neural networks (LSTM-RNNs) for prediction. This project has been developed by [Eduardo Ximenes](https://github.com/diest), [Constantino Neto](https://github.com/constantinoneto1) and Gabriel Gonçalves.
+This is an implementation of local learning for time series forecasting using self-organizing maps (SOMs) for determining time-window similarity and specialized long short-term memory recurrent neural networks (LSTM-RNNs) for prediction. This project has been developed by [Eduardo Ximenes](https://github.com/diest), [Constantino Neto](https://github.com/constantinoneto1) and Gabriel Gonçalves (gog@cin.ufpe.br).
   
 ### What did we find out?  
 * Cosine distance tends to work better than euclidean distance for calculating similarities between time windows due to it considering the angle among two vectors, which preserves tendencies and variations.  
@@ -16,7 +16,7 @@ This is an implementation of local learning for time series forecasting using se
   
 ## PTBR  
 ### Sobre o que é esse projeto?
-Uma implementação de aprendizado local para previsão de séries temporais usando mapas auto-organizáveis (SOMs) para determinar similaridade de janelas temporais e redes neurais recorrentes especializadas do tipo memória longa de curto-prazo para previsão. O projeto foi desenvolvido por [Eduardo Ximenes](https://github.com/diest), [Constantino Neto](https://github.com/constantinoneto1) e Gabriel Gonçalves.
+Uma implementação de aprendizado local para previsão de séries temporais usando mapas auto-organizáveis (SOMs) para determinar similaridade de janelas temporais e redes neurais recorrentes especializadas do tipo memória longa de curto-prazo para previsão. O projeto foi desenvolvido por [Eduardo Ximenes](https://github.com/diest), [Constantino Neto](https://github.com/constantinoneto1) e Gabriel Gonçalves (gog@cin.ufpe.br).
 
 ### O que pudemos perceber?
 * Distância de cosseno tende a funcionar melhor do que euclideana para calcular similaridade entre janelas temporais devido a ela considerar o ângulo entre dois vetores, o que preserva tendências e variações.
